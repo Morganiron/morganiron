@@ -5,14 +5,15 @@ I’m passionate about technology, family, and continuous learning. Here’s a b
 
 ## 🔭 I’m currently working on:
 - Building a personal software engineering portfolio website.
-- Contributing to open source projects and developing new skills.
+- Building a cross-platform scheduling app.
+- Developing new skills.
 
 ## 🌱 I’m currently learning:
-- Windows Forms application development with C# .NET Framework
-- Exploring machine learning applications
+- Software Security & Testing techniques.
+- Full-stack Web Development.
 
 ## 👯 I’m looking to collaborate on:
-- Projects related to Python, Java, and C#.
+- Projects related to Python, Java, C#, and C++.
 - Innovative web applications or tools.
 
 ## 🤔 I’m looking for help with:
