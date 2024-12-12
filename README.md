@@ -4,12 +4,12 @@ I'm an aspiring Software Engineer mostly proficient in Python, Java, and C# but,
 I’m passionate about technology, family, and continuous learning. Here’s a bit about me:
 
 ## 🔭 I’m currently working on:
+- Designing and developing a multi-screen mobile application in MAUI for students to track academic terms, courses, and assessments integrated with a SQLite database
 - Building a personal software engineering portfolio website.
-- Building a cross-platform scheduling app.
 - Developing new skills.
 
 ## 🌱 I’m currently learning:
-- Software Security & Testing techniques.
+- .NET MAUI
 - Full-stack Web Development.
 
 ## 👯 I’m looking to collaborate on:
