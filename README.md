@@ -1,37 +1,39 @@
 # Hi there! I'm Robert 👋
 
-I'm an aspiring Software Engineer mostly proficient in Python, Java, and C# but, with experience using HTML, CSS, Javascript, and C++.
-I’m passionate about technology, family, and continuous learning. Here’s a bit about me:
+Aspiring **Software Engineer** with a passion for building clean, scalable applications using modern technologies.  
+Skilled in **C#**, **Python**, **Java**, and **full-stack development** using **.NET**, **Blazor**, and cloud platforms like **AWS**.
 
-## 🔭 I’m currently working on:
-- Designing and developing a multi-screen mobile application in MAUI for students to track academic terms, courses, and assessments integrated with a SQLite database
-- Building a personal software engineering portfolio website.
-- Developing new skills.
+## 🔭 Currently Working On:
+- 🎓 **OpenEdAI** – An AI-powered personalized learning platform (prior Capstone Project at WGU), built with:
+  - Blazor WebAssembly frontend
+  - ASP.NET Core Web API backend (Dockerized, ECS-hosted)
+  - AWS Cognito authentication
+  - OpenAI + Google API integration
+- ⚙️ Deploying and maintaining production infrastructure on AWS (ECS, RDS, ALB, S3, CloudFront)
 
-## 🌱 I’m currently learning:
-- .NET MAUI
-- Full-stack Web Development.
+## 🌱 Currently Learning:
+- CI/CD pipelines with GitHub Actions
+- Container orchestration and cloud scaling
+- Advanced Blazor component design
 
-## 👯 I’m looking to collaborate on:
-- Projects related to Python, Java, C#, and C++.
-- Innovative web applications or tools.
+## 👯 Open to Collaborate On:
+- C#, Python, or Java projects
+- Educational tools or open-source platforms
+- Innovative full-stack or cloud-native applications
 
-## 🤔 I’m looking for help with:
-- Best practices in full-stack development.
-- Web development techniques
-- Integrating new technologies into my projects.
+## 💬 Ask Me About:
+- Building scalable .NET apps
+- Integrating AI with real-world applications
+- AWS, Docker, and cloud architecture
+- Guitars, fishing, or digital art 🎸🎣🎨
 
-## 💬 Ask me about:
-- Programming and software development.
-- DIY projects, fishing, and my passion for music and art.
-
-## 📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+## 📫 Let's Connect:
+- [LinkedIn](https://www.linkedin.com/in/morganiron)
 
 ## 😄 Pronouns:
 - He/Him
 
-## ⚡ Fun fact:
-- I love fixing things and recently rebuilt an electric guitar for my son!
+## ⚡ Fun Fact:
+- I rebuilt a full electric guitar for my son from scratch – it rocks 🎶
 
-Thank you for visiting my profile! Feel free to reach out or explore my projects.
+Thanks for stopping by! Feel free to explore my repositories or reach out!
