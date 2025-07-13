@@ -1,4 +1,4 @@
-# Hi there! I'm Robert 👋
+# Hi there!
 
 Aspiring **Software Engineer** with a passion for building clean, scalable applications using modern technologies.  
 Skilled in **C#**, **Python**, **Java**, and **full-stack development** using **.NET**, **Blazor**, and cloud platforms like **AWS**.
